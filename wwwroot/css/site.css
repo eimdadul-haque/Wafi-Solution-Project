@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.holiday-title{
+    height: 100px;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}
+
+
+.filter-container {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+
+.date-container {
+}
+
+.date-container span{
+    margin-right:5px;
+}
