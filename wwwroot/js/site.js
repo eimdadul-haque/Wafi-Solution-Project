@@ -10,14 +10,6 @@ const ajax = (Country, Year) => {
         mimeType: 'json',
         success: function (data) {
 
-            var head = "<tr>";
-            head += "<th>" + "Date" + "</th>";
-            head += "<th>" + "Name" + "</th>";
-            head += "<th>" + "Countries" + "</th>";
-            head += "<th>" + "</th>";
-            head += "</tr>";
-            $("#myTable thead").append(head);
-
             $.each(data, function (i, data) {
                 var body = "<tr>";
                 body += "<td>" + data.date + "</td>";
