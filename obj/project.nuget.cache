@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VV+2RHIy19M1o0vV1NcshSrbCV73K4g8JkDBVB1AA3RAhbH6l0hiEs64PNtmfQs5BLH+47/tHH8L3VJHCGIUvA==",
+  "dgSpecHash": "UI3ALGY509QrvbG5IUXLEZ+pmo3v63H71fyt+HB0Jl1A2bafAElurBu0Xo/h3qW8Z0zdmTG5rPhbknxdz8NmDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EIMDADUL\\Desktop\\Wafi Solution Project\\Wafi Solution Project.csproj",
+  "projectFilePath": "C:\\Users\\EIMDADUL\\Desktop\\New folder (2)\\Wafi Solution Project\\Wafi Solution Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EIMDADUL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\EIMDADUL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

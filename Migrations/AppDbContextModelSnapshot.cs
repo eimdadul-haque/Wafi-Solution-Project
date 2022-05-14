@@ -22,7 +22,7 @@ namespace Wafi_Solution_Project.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("Wafi_Solution_Project.Models.HolidayModel", b =>
+            modelBuilder.Entity("Wafi_Solution_Project.Models.Countries", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,8 +30,26 @@ namespace Wafi_Solution_Project.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<string>("Countrys")
+                    b.Property<string>("Country")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("HolidayModelId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("HolidayModelId");
+
+                    b.ToTable("Countries");
+                });
+
+            modelBuilder.Entity("Wafi_Solution_Project.Models.HolidayModel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime2");
@@ -42,6 +60,18 @@ namespace Wafi_Solution_Project.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("holidayD");
+                });
+
+            modelBuilder.Entity("Wafi_Solution_Project.Models.Countries", b =>
+                {
+                    b.HasOne("Wafi_Solution_Project.Models.HolidayModel", null)
+                        .WithMany("Countrys")
+                        .HasForeignKey("HolidayModelId");
+                });
+
+            modelBuilder.Entity("Wafi_Solution_Project.Models.HolidayModel", b =>
+                {
+                    b.Navigation("Countrys");
                 });
 #pragma warning restore 612, 618
         }

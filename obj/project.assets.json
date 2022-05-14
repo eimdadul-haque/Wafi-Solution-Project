@@ -1864,11 +1864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EIMDADUL\\Desktop\\Wafi Solution Project\\Wafi Solution Project.csproj",
+      "projectUniqueName": "C:\\Users\\EIMDADUL\\Desktop\\New folder (2)\\Wafi Solution Project\\Wafi Solution Project.csproj",
       "projectName": "Wafi Solution Project",
-      "projectPath": "C:\\Users\\EIMDADUL\\Desktop\\Wafi Solution Project\\Wafi Solution Project.csproj",
+      "projectPath": "C:\\Users\\EIMDADUL\\Desktop\\New folder (2)\\Wafi Solution Project\\Wafi Solution Project.csproj",
       "packagesPath": "C:\\Users\\EIMDADUL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EIMDADUL\\Desktop\\Wafi Solution Project\\obj\\",
+      "outputPath": "C:\\Users\\EIMDADUL\\Desktop\\New folder (2)\\Wafi Solution Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EIMDADUL\\AppData\\Roaming\\NuGet\\NuGet.Config",

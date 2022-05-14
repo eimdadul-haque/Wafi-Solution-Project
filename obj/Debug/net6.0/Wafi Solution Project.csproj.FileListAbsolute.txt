@@ -59,3 +59,64 @@ C:\Users\EIMDADUL\Desktop\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\li
 C:\Users\EIMDADUL\Desktop\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\EIMDADUL\Desktop\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\EIMDADUL\Desktop\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.csproj.CopyComplete
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\appsettings.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.staticwebassets.runtime.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.exe
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.deps.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.runtimeconfig.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Wafi Solution Project.pdb
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.csproj.AssemblyReference.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.AssemblyInfoInputs.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.AssemblyInfo.cs
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.csproj.CoreCompileInputs.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.RazorAssemblyInfo.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.RazorAssemblyInfo.cs
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\scopedcss\bundle\Wafi Solution Project.styles.css
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\scopedcss\projectbundle\Wafi Solution Project.bundle.scp.css
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.csproj.CopyComplete
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\refint\Wafi Solution Project.dll
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.pdb
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\Wafi Solution Project.genruntimeconfig.cache
+C:\Users\EIMDADUL\Desktop\New folder (2)\Wafi Solution Project\obj\Debug\net6.0\ref\Wafi Solution Project.dll

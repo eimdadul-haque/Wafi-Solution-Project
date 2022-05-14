@@ -4,7 +4,7 @@
     {
         public int Id { get; set; }
         public string? Name { get; set; }
-        public string? Countrys { get; set; }
+        public List<Countries>? Countrys { get; set; }
         public DateTime Date { get; set; }
     }
 }

@@ -1,7 +1,7 @@
 ﻿
 var cnty = "GB";
 var yr = 2017;
-
+var test = {};
 
 const ajax = (Country, Year) => {
     $.ajax({
@@ -11,11 +11,16 @@ const ajax = (Country, Year) => {
         success: function (data) {
 
             $.each(data, function (i, data) {
+                test = {
+                    date:  data.date,
+                    name: data.name,
+                    counties: data.counties,
+                }
                 var body = "<tr>";
                 body += "<td>" + data.date + "</td>";
                 body += "<td>" + data.name + "</td>";
                 body += "<td>" + data.counties + "</td>";
-                body += "<td>" + `<button id='btn-save'  id='save-btn' onclick="saveHoliday(${data})" class='btn btn-success'>` + "Save" + "</button>" + "</td>";
+                body += "<td>" + `<button id='btn-save'  id='save-btn' onclick='saveHoliday(${JSON.stringify(test)})' class='btn btn-success'>` + "Save" + "</button>" + "</td>";
                 body += "</tr>";
                 $("#myTable tbody").append(body);
 
@@ -74,5 +79,7 @@ function saveHoliday(data) {
         success: function (response) {
         }
     });
+
+    console.log(data,"===data");
 }
 
