@@ -4,12 +4,12 @@ var yr = 2017;
 
 
 const ajax = (Country, Year) => {
-
     $.ajax({
         type: 'GET',
         url: "https://date.nager.at/api/v3/publicholidays/" + Year + "/" + Country,
         mimeType: 'json',
         success: function (data) {
+
             $.each(data, function (i, data) {
                 var body = "<tr>";
                 body += "<td>" + data.date + "</td>";
@@ -21,6 +21,7 @@ const ajax = (Country, Year) => {
 
             });
 
+
             $("#myTable").DataTable({
                 searching: false,
                 paging: false,
@@ -31,11 +32,14 @@ const ajax = (Country, Year) => {
                     'csv'
                 ]
             });
+
         },
         error: function () {
             alert('Fail!');
         }
     });
+
+
 
 
 }
@@ -71,3 +75,4 @@ function saveHoliday(data) {
         }
     });
 }
+
