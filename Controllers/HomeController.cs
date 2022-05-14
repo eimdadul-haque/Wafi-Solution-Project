@@ -41,12 +41,12 @@ namespace Wafi_Solution_Project.Controllers
         {
             if (ModelState.IsValid)
             {
-                //var isExist = await _context.Where(x => x.Countrys == holiday.Na).ToListAsync();
-                //if (isExist.Count == 0)
-                //{
-                //    await _context.holidayD.AddAsync(holiday);
-                //    await _context.SaveChangesAsync();
-                //}
+                var isExist = await _context.countriesD.Where(x => x.Country == country.Country).ToListAsync();
+                if (isExist.Count == 0)
+                {
+                    await _context.countriesD.AddAsync(country);
+                    await _context.SaveChangesAsync();
+                }
             }
 
             return NoContent();
