@@ -40,7 +40,7 @@ namespace Wafi_Solution_Project.Migrations
 
                     b.HasIndex("HolidayModelId");
 
-                    b.ToTable("Countries");
+                    b.ToTable("countriesD");
                 });
 
             modelBuilder.Entity("Wafi_Solution_Project.Models.HolidayModel", b =>

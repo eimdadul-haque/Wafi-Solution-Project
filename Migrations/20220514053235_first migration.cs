@@ -24,7 +24,7 @@ namespace Wafi_Solution_Project.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Countries",
+                name: "countriesD",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -34,24 +34,24 @@ namespace Wafi_Solution_Project.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Countries", x => x.Id);
+                    table.PrimaryKey("PK_countriesD", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Countries_holidayD_HolidayModelId",
+                        name: "FK_countriesD_holidayD_HolidayModelId",
                         column: x => x.HolidayModelId,
                         principalTable: "holidayD",
                         principalColumn: "Id");
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Countries_HolidayModelId",
-                table: "Countries",
+                name: "IX_countriesD_HolidayModelId",
+                table: "countriesD",
                 column: "HolidayModelId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Countries");
+                name: "countriesD");
 
             migrationBuilder.DropTable(
                 name: "holidayD");

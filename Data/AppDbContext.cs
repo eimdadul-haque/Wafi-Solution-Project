@@ -11,5 +11,6 @@ namespace Wafi_Solution_Project.Data
         }
 
         public DbSet<HolidayModel> holidayD { get; set; }
+        public DbSet<Countries> countriesD { get; set; }
     }
 }

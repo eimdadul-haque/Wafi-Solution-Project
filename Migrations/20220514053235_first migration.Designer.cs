@@ -12,7 +12,7 @@ using Wafi_Solution_Project.Data;
 namespace Wafi_Solution_Project.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220514051746_first migration")]
+    [Migration("20220514053235_first migration")]
     partial class firstmigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -42,7 +42,7 @@ namespace Wafi_Solution_Project.Migrations
 
                     b.HasIndex("HolidayModelId");
 
-                    b.ToTable("Countries");
+                    b.ToTable("countriesD");
                 });
 
             modelBuilder.Entity("Wafi_Solution_Project.Models.HolidayModel", b =>
